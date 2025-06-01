@@ -9,6 +9,8 @@
     <DefineConstants>$(DefineConstants);CTRADER</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
+    <None Remove=".gitattributes" />
+    <None Remove=".gitignore" />
     <None Remove="CommonFunctions\.gitkeep" />
     <None Remove="LICENSE.txt" />
     <None Remove="README.md" />
