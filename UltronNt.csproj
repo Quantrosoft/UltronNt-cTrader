@@ -16,22 +16,22 @@
     <None Remove="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\AbstractRobot.cs" Link="CommonFunctions\AbstractRobot.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\CommonFunctions.cs" Link="CommonFunctions\CommonFunctions.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\ConvertUtils.cs" Link="CommonFunctions\ConvertUtils.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\CsLogger.cs" Link="CommonFunctions\CsLogger.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\CsRobot.cs" Link="CommonFunctions\CsRobot.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\CSRobotFactory.cs" Link="CommonFunctions\CSRobotFactory.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\ILogger.cs" Link="CommonFunctions\ILogger.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\IRobot.cs" Link="CommonFunctions\IRobot.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\IRobotFactory.cs" Link="CommonFunctions\IRobotFactory.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\QuantConnectBarHandling.cs" Link="CommonFunctions\QuantConnectBarHandling.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\RingBuffer.cs" Link="CommonFunctions\RingBuffer.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\TickServer.cs" Link="CommonFunctions\TickServer.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\TimeDefs.cs" Link="CommonFunctions\TimeDefs.cs" />
-    <Compile Include="..\..\cAlgoNt8Wrapper\CommonFunctions\TimePriceExtensions.cs" Link="CommonFunctions\TimePriceExtensions.cs" />
-    <Compile Include="..\..\NinjaTrader\UltronNt\Ultron.cs" Link="Ultron.cs" />
-    <Compile Include="..\..\NinjaTrader\UltronNt\UltronInstance.cs" Link="UltronInstance.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\AbstractRobot.cs" Link="CommonFunctions\AbstractRobot.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\CommonFunctions.cs" Link="CommonFunctions\CommonFunctions.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\ConvertUtils.cs" Link="CommonFunctions\ConvertUtils.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\CsLogger.cs" Link="CommonFunctions\CsLogger.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\CsRobot.cs" Link="CommonFunctions\CsRobot.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\CSRobotFactory.cs" Link="CommonFunctions\CSRobotFactory.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\ILogger.cs" Link="CommonFunctions\ILogger.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\IRobot.cs" Link="CommonFunctions\IRobot.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\IRobotFactory.cs" Link="CommonFunctions\IRobotFactory.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\QuantConnectBarHandling.cs" Link="CommonFunctions\QuantConnectBarHandling.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\RingBuffer.cs" Link="CommonFunctions\RingBuffer.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\TickServer.cs" Link="CommonFunctions\TickServer.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\TimeDefs.cs" Link="CommonFunctions\TimeDefs.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\TimePriceExtensions.cs" Link="CommonFunctions\TimePriceExtensions.cs" />
+    <Compile Include="..\..\..\NinjaTrader\UltronNt\Ultron.cs" Link="Ultron.cs" />
+    <Compile Include="..\..\..\NinjaTrader\UltronNt\UltronInstance.cs" Link="UltronInstance.cs" />
   </ItemGroup>
 
   <ItemGroup>
