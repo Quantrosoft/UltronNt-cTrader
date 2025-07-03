@@ -17,6 +17,8 @@
     <None Remove="README.md" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\..\..\..\..\NinjaTrader 8\bin\Custom\Strategies\UltronNt\Ultron.cs" Link="Ultron.cs" />
+    <Compile Include="..\..\..\..\..\NinjaTrader 8\bin\Custom\Strategies\UltronNt\UltronInstance.cs" Link="UltronInstance.cs" />
     <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\AbstractRobot.cs" Link="CommonFunctions\AbstractRobot.cs" />
     <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\CommonFunctions.cs" Link="CommonFunctions\CommonFunctions.cs" />
     <Compile Include="..\..\..\cAlgoNt8Wrapper\CommonFunctions\ConvertUtils.cs" Link="CommonFunctions\ConvertUtils.cs" />
@@ -38,11 +40,9 @@
     <Compile Include="..\..\..\cAlgoNt8Wrapper\cTrader\CtOrgBars.cs" Link="cTrader\CtOrgBars.cs" />
     <Compile Include="..\..\..\cAlgoNt8Wrapper\cTrader\CtOrgDataSeries.cs" Link="cTrader\CtOrgDataSeries.cs" />
     <Compile Include="..\..\..\cAlgoNt8Wrapper\cTrader\CtOrgTimeSeries.cs" Link="cTrader\CtOrgTimeSeries.cs" />
-    <Compile Include="..\..\..\cAlgoNt8Wrapper\cTrader\CtQcMmfBars.cs" Link="cTrader\CtQcMmfBars.cs" />
-    <Compile Include="..\..\..\cAlgoNt8Wrapper\cTrader\CtQcMmfDataSeries.cs" Link="cTrader\CtQcMmfDataSeries.cs" />
-    <Compile Include="..\..\..\cAlgoNt8Wrapper\cTrader\CtQcMmfTimeSeries.cs" Link="cTrader\CtQcMmfTimeSeries.cs" />
-    <Compile Include="..\..\..\NinjaTrader\UltronNt\Ultron.cs" Link="Ultron.cs" />
-    <Compile Include="..\..\..\NinjaTrader\UltronNt\UltronInstance.cs" Link="UltronInstance.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\cTrader\CtQcPipeBars.cs" Link="cTrader\CtQcPipeBars.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\cTrader\CtQcPipeDataSeries.cs" Link="cTrader\CtQcPipeDataSeries.cs" />
+    <Compile Include="..\..\..\cAlgoNt8Wrapper\cTrader\CtQcPipeTimeSeries.cs" Link="cTrader\CtQcPipeTimeSeries.cs" />
   </ItemGroup>
 
   <ItemGroup>
